@@ -1,4 +1,4 @@
-# Programa de Pesquisa de Opinião em Python 📊📝
+# Programa de Pesquisa de Opinião em Python 📊🐍
 
 Este é um simples programa em Python desenvolvido para auxiliar na coleta e análise de dados de uma pesquisa de opinião sobre um produto lançado no mercado. A aplicação foi criada para atender a uma solicitação da Agência Big Data A+ por parte de uma empresa do setor varejista.
 
