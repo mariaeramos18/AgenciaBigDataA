@@ -19,4 +19,4 @@ O usuário define o número total de entrevistados e fornece as respostas para c
 3. Preencha as informações para cada entrevistado, incluindo sexo, idade e opinião sobre o produto.
 4. Observe as estatísticas apresentadas ao final da pesquisa.
 
-Divirta-se usando! 🌟
+Divirta-se! 🌟
