@@ -19,14 +19,4 @@ O usuário define o número total de entrevistados e fornece as respostas para c
 3. Preencha as informações para cada entrevistado, incluindo sexo, idade e opinião sobre o produto.
 4. Observe as estatísticas apresentadas ao final da pesquisa.
 
-## Contribuições 🤝
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues, propor melhorias ou enviar pull requests para aprimorar o programa.
-
-Esperamos que este programa seja útil para a realização de pesquisas de opinião no contexto de produtos lançados no mercado. 
-
-Divirta-se pesquisando! 🌟
-
---- 
-
-Lembre-se de ajustar os emojis conforme o seu gosto e contexto.
+Divirta-se usando! 🌟
