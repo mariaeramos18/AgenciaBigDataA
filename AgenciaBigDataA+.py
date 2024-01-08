@@ -1,7 +1,7 @@
 # Função para ler a resposta do usuário, garantindo que seja 'S' ou 'N'
 def obter_resposta():
     while True:
-        resposta = input("Digite 'S' para Sim ou 'N' para Não: ").upper()
+        resposta = input("Digite 'S' para informar que gostou do produto ou 'N' para informar que não gostou: ").upper()
         if resposta in ['S', 'N']:
             return resposta
         else:
