@@ -1,19 +1,3 @@
-"""
-Uma empresa na área do varejo encomendou uma pesquisa a Agência Big Data A+ para saber a opinião das pessoas gostaram ou não de um determinado produto lançando no mercado. Para isso será necessário armazenar em vetores as seguintes informações:
-• o sexo do entrevistado ("M" ou "F");
-• a sua idade;
-• e a resposta sobre o produto("S" ou "N").
-
-Sabe-se que foram entrevistas um número X de pessoas, elabore um programa que informe: 
-• O total de pessoas que participaram da pesquisa;
-• O número de pessoas que responderam Sim;
-• O número de pessoas que responderam Não;
-• Quantas pessoas maiores de 18 anos gostaram do produto;
-• Quantas pessoas menores de 18 anos não gostaram do produto;
-• Quantas pessoas maiores de 18 anos, do sexo feminino, não gostaram do produto;
-• Quantas pessoas menores de 18 anos, do sexo masculino, gostaram do produto.
-"""
-
 # Função para ler a resposta do usuário, garantindo que seja 'S' ou 'N'
 def obter_resposta():
     while True:
