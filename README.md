@@ -1,8 +1,8 @@
-# Opinion Survey Program in Python 📊🐍
+# Opinion Survey Program in Python 📊
 
 This is a simple Python program developed to assist in collecting and analyzing data from an opinion survey about a newly launched product. The application was created to meet a request from the Big Data A+ Agency on behalf of a company in the retail sector.
 
-## Features 🚀
+## Features 
 
 The program allows the user to record interviewees’ opinions about a product, collecting the following information for each participant:
 
