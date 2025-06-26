@@ -1,22 +1,22 @@
-# Programa de Pesquisa de Opinião em Python 📊🐍
+Opinion Survey Program in Python 📊🐍
+This is a simple Python program developed to assist in collecting and analyzing data from an opinion survey about a newly launched product. The application was created to meet a request from the Big Data A+ Agency on behalf of a company in the retail sector.
 
-Este é um simples programa em Python desenvolvido para auxiliar na coleta e análise de dados de uma pesquisa de opinião sobre um produto lançado no mercado. A aplicação foi criada para atender a uma solicitação da Agência Big Data A+ por parte de uma empresa do setor varejista.
+Features 🚀
+The program allows the user to record interviewees’ opinions about a product, collecting the following information for each participant:
 
-## Funcionalidades 🚀
+Interviewee’s gender (M or F)
 
-O programa permite que o usuário registre as opiniões de entrevistados sobre um produto, coletando as seguintes informações para cada participante:
+Interviewee’s age
 
-- Sexo do entrevistado (M ou F)
-- Idade do entrevistado
-- Resposta sobre o produto (S para Sim ou N para Não)
+Response about the product (Y for Yes or N for No)
 
-O usuário define o número total de entrevistados e fornece as respostas para cada um. Ao final, são apresentadas diversas estatísticas, incluindo o total de participantes, o número de respostas positivas e negativas, além de detalhes sobre as opiniões de diferentes grupos demográficos.
+The user defines the total number of interviewees and provides responses for each one. At the end, various statistics are presented, including total participants, number of positive and negative responses, as well as details about opinions from different demographic groups.
 
-## Como Usar 🤔
+How to Use 🤔
+Run the program in a Python environment.
 
-1. Execute o programa em um ambiente Python.
-2. Forneça o número total de pessoas entrevistadas.
-3. Preencha as informações para cada entrevistado, incluindo sexo, idade e opinião sobre o produto.
-4. Observe as estatísticas apresentadas ao final da pesquisa.
+Provide the total number of interviewees.
 
-Divirta-se! 🌟
+Fill in the information for each interviewee, including gender, age, and opinion about the product.
+
+Review the statistics displayed at the end of the survey.
